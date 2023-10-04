@@ -1,0 +1,4 @@
+.show-counter {
+    background: var(--clr-bg);
+    color: white;
+}
